@@ -4,11 +4,11 @@
       "product":"SH2_ABAA",
       "from":"3.5.2",
       "version":"3.6.1",
-      "url":"Ascom_Myco_3_ABAA-ota-v3.6.1.zip"
+      "url":"http://172.16.2.10/AscomTest/Ascom_Myco_3_ABAA-ota-v3.6.1.zip"
     }
   ],
   "ae":{
   "version":"3.8.0",
-  "url":"Xml_file_configuration_template_v3.8.0.apkg"
+  "url":"http://172.16.2.10/AscomTest/Xml_file_configuration_template_v3.8.0.apkg"
   }
 }
